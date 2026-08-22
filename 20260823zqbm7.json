@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "飞牛NAS部署PandaWiki：搭建自托管AI知识库并实现远程访问",
+    "author": "毪栻喤",
+    "time": "2026年08月23日00时43分33秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "阿维塔07L上市22.99万元起，全球品牌代言人张凌赫亮相发布会",
+  "description": "1985年、北回归线标志塔在广州落成",
+  "about": {
+    "@type": "Thing",
+    "name": "www.share.tgwhk.cn"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "我看见两朵一样的云",
+    "description": "内容页的详细描述，可包含www.share.tgwhk.cn的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "敖痋嘕"
+    },
+    "datePublished": "2026年08月23日00时43分33秒",
+    "dateModified": "2026年08月23日00时43分33秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "程莉莎沉浸在郭晓东舞台里无法自拔",
+      "url": "http://www.share.tgwhk.cn/Article/details/935619.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "台风沙德尔会抵达江浙沪吗",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/073682.sHtML"
+    },
+{
+      "platform": "别再去西餐厅当冤大头！居家实现高端肉食自由，所有人都可以把西餐厅顶配餐食搬回家",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/962713.sHtML"
+    },
+{
+      "platform": "《异环》全球流水破 20 亿元：完美世界 2026 上半年由盈转亏 1.18 亿元，多款在研项目储备中",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/946488.sHtML"
+    },
+{
+      "platform": "北约多国在俄打击范围内",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/672746.sHtML"
+    },
+{
+      "platform": "“假总编”被聘为真顾问：陕西千阳曾提出全县文化单位为张龙提供工作便利",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/540833.sHtML"
+    },
+{
+      "platform": "手写模拟器-文本/docx 一键变逼真手写图片，告别手抄(2026.08.12更新）",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/486869.sHtML"
+    },
+{
+      "platform": "女子称脱衣时酒店房门突然打开",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/033083.sHtML"
+    },
+{
+      "platform": "TikTok带货博主卷疯快递：三天，从深圳到伦敦",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/418571.sHtML"
+    },
+{
+      "platform": "千名群众手持鲜花送别39岁儿科医生",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/995774.sHtML"
+    },
+    {
+      "platform": "转会专家：利物浦中场琼斯即将加盟国际米兰",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/532736.sHtML"
+    },
+{
+      "platform": "全新深蓝S05上市11.59万元起，全球时尚激光智能SUV全面进阶",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/753692.sHtML"
+    },
+{
+      "platform": "中联部邀日本议员访华？外交部回应",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/012902.sHtML"
+    },
+{
+      "platform": "全家偷听我心声杀疯了,我负责吃奶",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/244436.sHtML"
+    },
+{
+      "platform": "1942年、斯大林格勒大会战在纳粹德国和苏联之间展开",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/767917.sHtML"
+    },
+{
+      "platform": "博主：A股市场不应该跟着外围市场走",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/604893.sHtML"
+    },
+{
+      "platform": "企业 AI Agent 的真正门槛，不是模型能力，而是工作底座",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/394268.sHtML"
+    },
+{
+      "platform": "知识回顾：Vue 生命周期十道面试题，钩子函数必问",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/197539.sHtML"
+    },
+{
+      "platform": "正当防卫！昆山龙哥后又一正道的光",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/779025.sHtML"
+    },
+{
+      "platform": "隔热层“飞”了 责任谁担",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/118499.sHtML"
+    },
+    {
+      "platform": "冷战核废墟变八吉瓦AI超级工厂！黄仁勋押十五亿，OpenAI独霸二十年",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/695787.sHtML"
+    },
+{
+      "platform": "享界G9自适应上锁实测首曝，各种复杂路况脱困无压力！",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/237846.sHtML"
+    },
+{
+      "platform": "史泽鲲控诉紫川AI偷用声音",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/012104.sHtML"
+    },
+{
+      "platform": "做磁共振检查，忘了摘“999足金”的金镯子，万万没想到……",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/592195.sHtML"
+    },
+{
+      "platform": "智驾“小蓝灯”不合国标将被禁用，网友：它就是马路闪光弹和软柿子！",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/664326.sHtML"
+    },
+{
+      "platform": "六个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/528126.sHtML"
+    },
+{
+      "platform": "哈佛医学院盗卖遗体器官案达成和解",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/744795.sHtML"
+    },
+{
+      "platform": "美的系“悍将不悍”？殷必彤是哪类高管？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/928882.sHtML"
+    },
+{
+      "platform": "韩国足协曾“不当招待”赴韩进行裁判交流的3名中国足协工作人员？中国足协回应",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/094930.sHtML"
+    },
+{
+      "platform": "修了 Bug、做了重构，为什么老板还是觉得你没产出？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/069098.sHtML"
+    },
+    {
+      "platform": "【全栈实践】第一个 AI Agent 项目：从零搭建 AI 音频创作助手（高级篇）",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/400170.sHtML"
+    },
+{
+      "platform": "情侣领证男生把婚前财产都给女生",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/768186.sHtML"
+    },
+{
+      "platform": "宇树上市后，创始人身家超 1300 亿成90后首富，23 名员工成千万富豪，如何看待宇树的造富神话？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/006972.sHtML"
+    },
+{
+      "platform": "男子将遗产全部留给弟弟不给妻儿",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/253390.sHtML"
+    },
+{
+      "platform": "空枪檀健次模仿广西普通话",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/857010.sHtML"
+    },
+{
+      "platform": "吓到腿软，电梯突然失控从31楼下坠到负2楼！一家三人分别遭遇电梯下坠事件，海伦国际小区电梯故障频发",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/697940.sHtML"
+    },
+{
+      "platform": "泽连斯基遭遇大麻烦",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/359377.sHtML"
+    },
+{
+      "platform": "狮驼岭3v3，为什么沙僧直接冲上去干最猛的大鹏？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/334634.sHtML"
+    },
+{
+      "platform": "汽车被树根包裹多年漆面完整",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/928662.sHtML"
+    },
+{
+      "platform": "女排时隔11年冲击亚洲冠军",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/966843.sHtML"
+    },
+    {
+      "platform": "石家庄居民楼发生部分坍塌 造成3人死亡",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/122442.sHtML"
+    },
+{
+      "platform": "复刻龙餐馆徐福烩饭",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/576037.sHtML"
+    },
+{
+      "platform": "苹果向欧盟监管让步",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/693352.sHtML"
+    },
+{
+      "platform": "升学宴女儿墙垮塌村民发声",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/463025.sHtML"
+    },
+{
+      "platform": "第五人格加页手记微综艺",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/122440.sHtML"
+    },
+{
+      "platform": "36岁老酒鬼喝早酒的快乐",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/582094.sHtML"
+    },
+{
+      "platform": "成都在做，幸福在右，人间烟火，理想生活 | 2020成都最新版游记",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/762044.sHtML"
+    },
+{
+      "platform": "朱镕基同志遗体在北京八宝山革命公墓火化，天安门广场等地下半旗志哀",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/751634.sHtML"
+    },
+{
+      "platform": "小鹏G9L双工况场景极限 续航挑战！城区达成率：122.5%/高速达成率：85.3%",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/897154.sHtML"
+    },
+{
+      "platform": "纪念奥特曼 60 周年：全新特别短片《赛罗奥特曼 宇宙跃升》中字版上线，坂本浩一执导",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/576966.sHtML"
+    },
+    {
+      "platform": "为博流量恶意拨打110被行拘",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/976157.sHtML"
+    },
+{
+      "platform": "中签长鑫宇树男子回应打新技巧",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/669218.sHtML"
+    },
+{
+      "platform": "美媒评新赛季30队强弱变化！76人升级明显，火箭湖人勇士均被看衰",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/314795.sHtML"
+    },
+{
+      "platform": "【柯基】抽象电影《牛来》片尾曲｜《雨后轻风有香》",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/809031.sHtML"
+    },
+{
+      "platform": "女孩买空座放零食 大姐想坐遭拒",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/961787.sHtML"
+    },
+{
+      "platform": "今年上市的新车销量哪家强",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/198264.sHtML"
+    },
+{
+      "platform": "3 个月烧掉 105 亿，腾讯急了",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/402878.sHtML"
+    },
+{
+      "platform": "我真不是为了那饭菜，才替他们倒酒满上",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/330737.sHtML"
+    },
+{
+      "platform": "8年感情，老公对我很好，但我好像已经不爱他了怎么办？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/794472.sHtML"
+    },
+{
+      "platform": "5分钟，看完《牛来》全剧情",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/687224.sHtML"
+    },
+    {
+      "platform": "全网寻找“李春”：我们的淘宝地址，为何被一个神秘人“接管”了？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/777688.sHtML"
+    },
+{
+      "platform": "明星七夕节集体秀恩爱",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/370028.sHtML"
+    },
+{
+      "platform": "市场监管总局严打电子计价秤芯片植入、远程操控等作弊行为，全流程管控生产流通",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/689624.sHtML"
+    },
+{
+      "platform": "Project Trust 不是 Sandbox：Pi Agent 的安全边界怎样补齐",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/943674.sHtML"
+    },
+{
+      "platform": "一天回到解放前，玩尼尕爹！",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/053732.sHtML"
+    },
+{
+      "platform": "美股盘前要点 | 美联储7月会议纪要凌晨公布，SK海力士官宣40万亿韩元回购计划",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/504637.sHtML"
+    },
+{
+      "platform": "拥有高斯的智商和直接拥有现金一个亿rmb，到底选哪个才是好的？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/942816.sHtML"
+    },
+{
+      "platform": "伊朗称未与美国进行直接对话",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/685637.sHtML"
+    },
+{
+      "platform": "香港朋友发的这是真的吗洗碗工赶上内地二线白领了",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/365588.sHtML"
+    },
+{
+      "platform": "金山软件 2026 财年上半年归母净利润 16.39 亿元，同比增长 101%",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/390133.sHtML"
+    },
+    {
+      "platform": "公积金新政来了 有哪些利好",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/633662.sHtML"
+    },
+{
+      "platform": "来葛仙村过几天神仙日子！！！【江西旅游新地标】葛仙村度假区三天两晚全功攻略",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/690692.sHtML"
+    },
+{
+      "platform": "葛卫东朋友圈“喊话”坚定看多AI：我是相信没结束的",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/053282.sHtML"
+    },
+{
+      "platform": "重大跨境赌博犯罪集团骨干落网",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/562517.sHtML"
+    },
+{
+      "platform": "迁移uni-app x，我是如何让 AI 把我一步步搞崩溃的...",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/742781.sHtML"
+    },
+{
+      "platform": "王毅外长时隔5年再访韩 之后还将携手防长赴印尼参会",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/741120.sHtML"
+    },
+{
+      "platform": "香港打击非法卖淫9名内地女子被捕",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/097931.sHtML"
+    },
+{
+      "platform": "曼联即将签下巴莱巴",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/397926.sHtML"
+    },
+{
+      "platform": "22岁名校女生突然被"绑架"到700公里外 经历59天炼狱",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/688294.sHtML"
+    },
+{
+      "platform": "水果型蔬菜身价翻倍",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/694004.sHtML"
+    },
+    {
+      "platform": "物业费从2.2元涨到5.95元，九成业主还举手赞成：这个小区揭穿了"物业=敌人"的伪命题",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/620400.sHtML"
+    },
+{
+      "platform": "惠英红为拍戏拼到买不了保险",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/540124.sHtML"
+    },
+{
+      "platform": "三星Galaxy Z8系列深圳上手：AI功能如何改变折叠屏的使用方式",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/890017.sHtML"
+    },
+{
+      "platform": "2女孩买3张火车票 无座乘客想坐被拒",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/264963.sHtML"
+    },
+{
+      "platform": "[3.1]小工具-文件名字追加日期",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/506311.sHtML"
+    },
+{
+      "platform": "8年养育3女儿非亲生案开庭",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/025848.sHtML"
+    },
+{
+      "platform": "最强助眠运动！游泳、撸铁都不如它",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/477207.sHtML"
+    },
+{
+      "platform": "这场文艺汇演如同百花齐放",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/962862.sHtML"
+    },
+{
+      "platform": "当 AI 开始批量写 HTML，WorkBuddy 想解决「生成之后」的问题",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/894026.sHtML"
+    },
+{
+      "platform": "马斯克遭遇“黑色七月”，个人财富缩水约合人民币2.45万亿元，相当于亏掉2个“黄仁勋”",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/877982.sHtML"
+    },
+    {
+      "platform": "如果网络不分层，互联网会崩溃成什么样？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/007713.sHtML"
+    },
+{
+      "platform": "这款厨房纸立即停用",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/771254.sHtML"
+    },
+{
+      "platform": "石家庄一小区发生疑似燃爆致3死",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/085168.sHtML"
+    },
+{
+      "platform": "读懂微信 AI 底层逻辑：普通人、商家掘金完整手册",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/914407.sHtML"
+    },
+{
+      "platform": "Zookeeper - 分布式配置中心的搭建与实操实践",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/953059.sHtML"
+    },
+{
+      "platform": "2027 款广汽丰田凯美瑞上市：智能座舱大升级、小米生态接口，权益价 13.18 万起",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/032025.sHtML"
+    },
+{
+      "platform": "8K实拍朱雀三号可回收火箭",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/925758.sHtML"
+    },
+{
+      "platform": "马上评｜合力铲除滋生假名人的社会土壤",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/886161.sHtML"
+    },
+{
+      "platform": "Marvell 与谷歌签署定制芯片协议并授予其大额认股权证：行权价 206.58 美元，盘前涨超 10%",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/302607.sHtML"
+    },
+{
+      "platform": "两部门再拨6000万元支持河南防汛抢险救灾；国家防总、应急部增调物资支持新疆抗旱",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/705249.sHtML"
+    },
+    {
+      "platform": "杭州男子被蝉鸣吵成耳聋，怪不得皇上总是要苏培盛粘蝉呢",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/154232.sHtML"
+    },
+{
+      "platform": "50岁果农到澳大利亚教人种葡萄 雇主为其提供别墅汽车",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/369277.sHtML"
+    },
+{
+      "platform": "刘一朵真成全国景区了",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/773859.sHtML"
+    },
+{
+      "platform": "申花0-3国安后，一名身穿中国国家队武磊球衣的孩子与其父亲被极端申花球迷围住指责，你如何看待这件事情？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/874621.sHtML"
+    },
+{
+      "platform": "胖东来再招聘刑释人员的「刑期五年以上」门槛引质疑，这在法律上是什么程度？如何平衡社会责任与公众担忧？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/801974.sHtML"
+    },
+{
+      "platform": "AI 编程工程化：实战——从 0 到 1 搭建 AI 编程工作流",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/775186.sHtML"
+    },
+{
+      "platform": "本地跑一个 Qwen 3.8，你将拥有一个 Opus 4.6",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/489069.sHtML"
+    },
+{
+      "platform": "证券业上演极致马太效应，形成三层稳态格局",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/376455.sHtML"
+    },
+{
+      "platform": "赛马过时了，Wan 3.0还是越早和HappyHorse合并越好",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/074528.sHtML"
+    },
+{
+      "platform": "大学生版暴走大事件",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/845863.sHtML"
+    },
+    {
+      "platform": "博主：乌军或用新招打击莫斯科",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/091396.sHtML"
+    },
+{
+      "platform": "《牛来》火了？我用ThreeJs实现了一个简易版的，代码全送给你，文章最后附演示效果",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/547549.sHtML"
+    },
+{
+      "platform": "小猫一脚干碎主人七八千元玉镯",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/588541.sHtML"
+    },
+{
+      "platform": "加总理卡尼再通话特朗普",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/709359.sHtML"
+    },
+{
+      "platform": "中学教师招聘笔试前13名被淘汰后5名进体检 官方通报",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/245437.sHtML"
+    },
+{
+      "platform": "公共泳池内男子在儿童区搓脚",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/528544.sHtML"
+    },
+{
+      "platform": "雷童的热烈换来春子我也是",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/075614.sHtML"
+    },
+{
+      "platform": "中国实现火箭陆地回收 外媒反应来了",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/723793.sHtML"
+    },
+{
+      "platform": "左奇函陈奕恒香港路透",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/057300.sHtML"
+    },
+{
+      "platform": "金山云 2026 财年半年报归母亏损 4.37 亿元，同比下降 43.4%",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/062403.sHtML"
+    },
+    {
+      "platform": "以你目前的眼光，你会选女儿还是妈妈？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/417100.sHtML"
+    },
+{
+      "platform": "让 Coding Agent 开始「记住过去」：MemoraX Code 的长期记忆系统",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/045788.sHtML"
+    },
+{
+      "platform": "旅游失败：暑期旺季“打卡式旅游”，真的还不如在家看纪录片",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/227348.sHtML"
+    },
+{
+      "platform": "女导演成AI剧反派原型",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/309339.sHtML"
+    },
+{
+      "platform": "总经理接供应商私活赚1036万",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/602687.sHtML"
+    },
+{
+      "platform": "查壳工具 Exeinfo PE 0.0.9.9官方版&集成插件绿色单文件汉化版",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/803470.sHtML"
+    },
+{
+      "platform": "“电视台开始播AI剧”引热议，为何AI越像人越诡异？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/760748.sHtML"
+    },
+{
+      "platform": "唐山多家企业被卡用地审批？记者调查",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/485471.sHtML"
+    },
+{
+      "platform": "一边练逃跑一边练斩首，收台信号愈发清晰，统一进程正在加速",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/802184.sHtML"
+    },
+{
+      "platform": "我的前半生9年后为何又爆火",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/154709.sHtML"
+    },
+    {
+      "platform": "SEC公布加密货币监管方案",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/224479.sHtML"
+    },
+{
+      "platform": "从选址到开业，决定一家店活下来的是什么？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/049742.sHtML"
+    },
+{
+      "platform": "为悦己生活而来！搭载十大全球第一顶尖科技，腾势Z9S正式开启预售",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/328101.sHtML"
+    },
+{
+      "platform": "大西洋上的星河璀璨",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/888390.sHtML"
+    },
+{
+      "platform": "圆通速递 2026 年上半年归母净利润 31.75 亿元，同比增长 73.44%",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/117869.sHtML"
+    },
+{
+      "platform": "开启Benchmark的Harness时代：十五家学术机构联合发布HarnessEval",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/867456.sHtML"
+    },
+{
+      "platform": "开源两天 9.5 万 Star！DeepSeek Harness 到底是个啥？小白安装到实战一篇讲透",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/500284.sHtML"
+    },
+{
+      "platform": "七夕节男子送“花树”找叉车叉回家",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/673252.sHtML"
+    },
+{
+      "platform": "具身智能9家“大厂派系”融资PK，最强“厂牌”不是字节、百度，也不是大疆",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/641858.sHtML"
+    },
+{
+      "platform": "中国机器人对答如流 斯洛伐克总统：里面是不是藏了个人？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/740625.sHtML"
+    },
+    {
+      "platform": "里奇保罗：乔丹科比父母双全导致他们自私，詹姆斯单亲家庭导致其无私",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/295249.sHtML"
+    },
+{
+      "platform": "刘亦菲携爱犬登上时尚芭莎九月刊",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/723705.sHtML"
+    },
+{
+      "platform": "杭州男子下班路上“多看一眼”，感觉事情必有蹊跷……3人落网",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/865870.sHtML"
+    },
+{
+      "platform": "22-0惨败创50年耻辱 水手2亿巨星低级失误遭怒批：该坐一周冷板凳",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/803913.sHtML"
+    },
+{
+      "platform": "家中装修厕所因太豪华遭强拆",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/946131.sHtML"
+    },
+{
+      "platform": "多国减持 美债抛售潮加剧",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/782291.sHtML"
+    },
+{
+      "platform": "破局智驾高门槛，10万级大六座星海V6搭载华为乾崑智驾ADS 5 SE载誉下线",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/307035.sHtML"
+    },
+{
+      "platform": "我奔跑的时候拿着手电筒向前射出一束光，那这束光的速度是不是相对地面超过了光速？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/399196.sHtML"
+    },
+{
+      "platform": "紫牛头条｜江苏3岁罕见病女童完成冷冻卵巢手术，妈妈：希望给女儿未来选择的权利",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/905487.sHtML"
+    },
+{
+      "platform": "没想到狗血剧情发生我身上",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/613825.sHtML"
+    },
+    {
+      "platform": "115 网盘上线 2026 年七夕限定活动：2999 元长期 VIP 套餐回归，但不再附赠存储空间",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/712888.sHtML"
+    },
+{
+      "platform": "一个不会游戏开发的人，用 AI 把一款小游戏做到上线了",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/950280.sHtML"
+    },
+{
+      "platform": "南斯拉夫被肢解的太惨了吧？这是切块再剁碎啊",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/673344.sHtML"
+    },
+{
+      "platform": "江浙沪作为典型的南方地区，为什么嗜好面食，满大街都是面馆",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/546186.sHtML"
+    },
+{
+      "platform": "赛力斯上半年营收574.93亿元",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/908773.sHtML"
+    },
+{
+      "platform": "李在明表态收回战时指挥权意味着啥",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/276081.sHtML"
+    },
+{
+      "platform": "云网智算篇-第七篇：智算服务器架构——Atlas 900T A3 整机剖析",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/692704.sHtML"
+    },
+{
+      "platform": "bilibili视频下载器，可下4K、8K、HDR、杜比音频等内容（2026.08.14更新）",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/549852.sHtML"
+    },
+{
+      "platform": "三个维度解读前7月经济成绩单",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/376191.sHtML"
+    },
+{
+      "platform": "预售43.98万起，享界G9静态评测首发，以科技豪华注入硬派内核",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/725911.sHtML"
+    },
+    {
+      "platform": "朱雀三号副总设计师称，蓝箭提升发射能力的瓶颈是「菜就多练」，如何看待这一回应？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/530215.sHtML"
+    },
+{
+      "platform": "跟着合唱派对七夕浪漫开唱",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/149296.sHtML"
+    },
+{
+      "platform": "翻旧案！韩国足协不当招待传闻发酵，当年赴韩足协官员已成阶下囚",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/165278.sHtML"
+    },
+{
+      "platform": "【计算机网络 | 数据链路层3：MAC 地址是什么？它和 IP 地址有什么区别？】",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/119984.sHtML"
+    },
+{
+      "platform": "赵勇能把中国女排带多远（三）",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/845582.sHtML"
+    },
+{
+      "platform": "俄罗斯一老兵跳伞表演中降落伞未能打开，从600米空中坠亡，其曾试图打开备用降落伞，因距离地面太近失败",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/417547.sHtML"
+    },
+{
+      "platform": "我是周星驰影迷，看到很多人说沈腾已经超越了周星驰，这个观点我并不反对。江山代有才人出，各领风骚数百年，没有人能够永远是第一，周星驰有过自己的光辉岁月这就够了。而且中国的电影历史不太可能绕开他不谈的。",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/807850.sHtML"
+    },
+{
+      "platform": "从「拍得到」到「拍得成」：大疆如何重塑全景影像天花板",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/417636.sHtML"
+    },
+{
+      "platform": "美伊谅解备忘录谈判窗口到期陷僵局，特朗普称不与伊朗会谈，伊朗坚持霍尔木兹海峡开放须先解除制裁",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/922367.sHtML"
+    },
+{
+      "platform": "当地回应升学宴事故致5人死亡",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/433571.sHtML"
+    },
+    {
+      "platform": "IT早报 0819：雷军官宣小米新一代玄戒芯片将至；魏建军称长城 36 年来没造过速成车；多人因编造 AI 车祸假视频被罚；入职奖 8800 元，富士康备战 iPhone 18...",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/591967.sHtML"
+    },
+{
+      "platform": "夯爆了！！ 有这么好吃的猕猴桃，你怎么不早点告诉我！！！",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/603144.sHtML"
+    },
+{
+      "platform": "巴厘岛 | 总有一个假日，要属于bali",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/985633.sHtML"
+    },
+{
+      "platform": "伦敦一回收中心发生大火",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/639591.sHtML"
+    },
+{
+      "platform": "河南出台带薪休假新政：领导干部要带头休假，推动全员应休尽休、休满休足，对纸面休假、弄虚作假的机关事业单位约谈通报、限期整改",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/987458.sHtML"
+    },
+{
+      "platform": "江苏泰州音乐家协会：撤销现有全部顾问等名誉职务",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/315609.sHtML"
+    },
+{
+      "platform": "贵州一村庄升学宴“瘦身”",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/161537.sHtML"
+    },
+{
+      "platform": "多地宣布：调整最低工资标准",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/846319.sHtML"
+    },
+{
+      "platform": "有报道称中联部已邀请日本国会议员下周访华 中方回应",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/199787.sHtML"
+    },
+{
+      "platform": "个股问题直接丢过来，我来跟大家聊一聊！！！",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/757772.sHtML"
+    },
+    {
+      "platform": "面向 Agent 的团队知识供给系统：架构设计与工程落地",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/091368.sHtML"
+    },
+{
+      "platform": "中国移动将推出全国统一Token套餐；NASA Starling任务实现无GPS自主导航；宇树科技发布“超人”机器人",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/025587.sHtML"
+    },
+{
+      "platform": "为何说8月18号是市场重要分水岭",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/164652.sHtML"
+    },
+{
+      "platform": "为什么大家看《甄嬛传》时总跳过凌云峰谈恋爱？这背后其实反映了这种心理",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/609362.sHtML"
+    },
+{
+      "platform": "胡彦斌竟然是1999年出道的",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/083378.sHtML"
+    },
+{
+      "platform": "空枪 李嘉诚儿子绑架案",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/485605.sHtML"
+    },
+{
+      "platform": "Redis 和 MySQL 如何保证数据一致性？先更新数据库还是先删缓存，延迟双删、MQ、Canal 一次讲透",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/220002.sHtML"
+    },
+{
+      "platform": "为什么同一段代码在 Safari 上永远有 Bug？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/088610.sHtML"
+    },
+{
+      "platform": "激发下沉市场活力 这几点值得期待",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/519370.sHtML"
+    },
+{
+      "platform": "意图刺杀美财长 美一公民获刑6年",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/636340.sHtML"
+    },
+    {
+      "platform": "雷军打新宇树科技赚152亿",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/121382.sHtML"
+    },
+{
+      "platform": "Agentic SRE：当 AI 不仅提出修复方案，还直接实施时会发生什么",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/863100.sHtML"
+    },
+{
+      "platform": "国产综艺为什么总是出现各种“学”",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/095570.sHtML"
+    },
+{
+      "platform": "男子直肠癌手术三年后喝酒 医生提醒",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/721725.sHtML"
+    },
+{
+      "platform": "老妈身上的伤口就像“活火山口”，一汪血水混合着脓水",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/625970.sHtML"
+    },
+{
+      "platform": "家长被索要清洁费未果遭尾随",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/231640.sHtML"
+    },
+{
+      "platform": "美军太平洋基地设施衰败状态堪忧",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/550927.sHtML"
+    },
+{
+      "platform": "如何评价起点中文网大量下榜万均 AI 作品的行为？这一举措对网文行业后续发展有何影响？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/969739.sHtML"
+    },
+{
+      "platform": "为什么有钱人都喜欢往漂亮国跑？",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/428859.sHtML"
+    },
+{
+      "platform": "章子怡，投资230万套现3个亿",
+      "share_url": "http://www.share.tgwhk.cn/Article/details/820995.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+
+<hr></hr><br>
+<p>*报告生成时间：2026年08月23日00时43分33秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
